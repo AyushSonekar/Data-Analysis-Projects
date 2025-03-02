@@ -1,8 +1,8 @@
 1. Project Overview:-
-## HR Management Report with Power BI
+a) HR Management Report with Power BI
 This is a project to construct an HR analytics dashboard to comprehend workforce trends and lower turnover rates. 
 This dashboard can help you gain insights into employee engagement, highlighting areas that require improvement.
-### Key Features
+b) Key Features
 - Data filtering by JobSatisfaction Score, Department, Age, Gender and Department.
 - Visualization on different Key Factors.
 
